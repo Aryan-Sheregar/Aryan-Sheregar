@@ -2,9 +2,9 @@
 <h3 align="center">Here's a cute cat 
   <pre>
 ╱|、
-    (˚ˎ 。7  
-            |、˜〵          
-    じしˍ,)ノ
+      (˚ˎ 。7  
+              |、˜〵          
+      じしˍ,)ノ
   </pre>
 </h3>
 
