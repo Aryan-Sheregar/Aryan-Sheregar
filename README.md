@@ -1,11 +1,11 @@
 <h1 align="center">Hellooo, I'm Aryan Sheregar</h1>
 <h3 align="center">Here's a cute cat 
-  ```
+  <pre>
      ╱|、
     (˚ˎ 。7  
     |、˜〵          
     じしˍ,)ノ
-  ```
+  </pre>
 </h3>
 
 - Currently tinkering with **Machine Learning, Blockchain and Blender**
