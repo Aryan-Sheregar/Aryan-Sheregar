@@ -8,7 +8,7 @@
   </pre>
 </h3>
 
-- Currently tinkering with **Machine Learning, Blockchain and Blender**
+- Currently tinkering with **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
